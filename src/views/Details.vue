@@ -8,7 +8,7 @@
     <br>
     <div id="cards" class="card">
       <header class="card-header">
-        <p class="card-header-title">Authored by {{this.author}}</p>
+        <p class="card-header-title">Authored by {{this.author[0]}}</p>
       </header>
       <div class="card-content">
         <div class="content">
